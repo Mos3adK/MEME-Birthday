@@ -228,7 +228,7 @@ body {
     padding: 0px 20px;
     bottom: -20px;
     border: 3px solid var(--color-black);
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Dancing Script', cursive;
 }
 .date__of__birth span, .name span{
     font-weight: bold;
@@ -501,7 +501,7 @@ body {
 }
 .letter__border .letter .title__letter{
     text-align: center;
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Dancing Script', cursive;
     font-weight: bold;
     font-size: 2.4rem;
 }
@@ -594,7 +594,7 @@ body {
 .content__letter .right .text__letter{
     margin-top: 60px;
     padding: 20px 15px 10px 15px;
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Dancing Script', cursive;
     font-size: 1.3rem;
 }
 .content__letter .right #mewmew{
@@ -727,7 +727,7 @@ body {
 
     .letter__border .letter .title__letter {
         text-align: center;
-        font-family: 'Patrick Hand', cursive;
+        font-family: 'Dancing Script', cursive;
         font-weight: bold;
         font-size: 1.4rem;
     }
@@ -744,7 +744,7 @@ body {
     .content__letter .right .text__letter {
         margin-top: -14px;
         padding: 20px 15px 10px 15px;
-        font-family: 'Patrick Hand', cursive;
+        font-family: 'Dancing Script', cursive;
         font-size: .8rem;
     }
 
@@ -887,7 +887,7 @@ body {
     height: calc(100%);
 }
 .boxMail .boxMail-container .card1 h3{
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Dancing Script', cursive;
     font-size: 40px;
     text-transform: uppercase;
     width: 80%;
